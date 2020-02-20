@@ -1,0 +1,13 @@
+"Requested amount of %1 isn't available.","ご要望いただいた数量 %1 はご用意できません。"
+"Requested amount of %1 in special price isn't available. %2 item(s) have been added with regular price.","ご要望いただいた数量 %1 を特別価格でご用意できません。 %2 点は通常価格となります。"
+"Offer limit cannot be greater than product quantity. This value was fixed automatically to %1","オファーの上限は商品在庫数をオーバーできません。値は自動的に %1 に変更されます。"
+"Offer is ended and product was removed from the cart.","オファーが終了すると商品をカートから削除する。"
+"Limited offer","限定オファー"
+MageSuite,MageSuite
+"Daily Deal","本日のオススメ"
+General,全般
+Enabled,有効
+"Use Qty limitation","個数制限を使用"
+"Show on product tile","商品一覧で使用"
+"Limited time offer","タイムセール"
+"items left","点残っています"
